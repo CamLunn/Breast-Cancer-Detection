@@ -14,3 +14,9 @@ As one of the leaders in cancer mortality, breast cancer ranks fifth worldwide i
 To bypass the issue, Radiologists use computer-aided detection/diagnosis systems (CAD) for breast cancer detection; boosting the accuracy of the CAD system can improve detection accuracy, and this will end in a better survival rate and treatment choices. CAD comprises a fundamental two-phase segmentation and classification; segmentation is an essential step in a computer-aided detection/ diagnostic (CAD) system; handcraft segmentation methods are not giving the precision recommended, are time-consuming, and are very tedious.
 
 The tremendous progress in artificial intelligence, especially computer vision, has contributed significantly to vision systems development in various fields, such as autonomous driving [5], face recognition [6], handwriting recognition, and healthcare systems [7]. Motivated by this progress, this project utilizes deep learning to address Breast Cancer Detection. Specifically, Convolutional Neural Networks (CNN) and SVM are implemented for classification of masses, and MaskRcnn for segmentation on mammograms. The overall framework comprises three parts: 1) Data Pre-processing, 2) Classification model (CNN + SVM), and 3) Detection-segmentation based on the Mask R-CNN [8]. The overall architecture provides a flexible and efficient classification, object detection, and segmentation framework. For segmentation, after lesion extraction, it is further segmented, and the result is compared to the ground truth. The system is evaluated on CBIS-DDSM [9], a publicly available benchmark.
+
+
+
+Models Used:
+
+
