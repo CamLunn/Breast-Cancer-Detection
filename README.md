@@ -7,7 +7,7 @@ Contents:
 
 
 
-**Introduction**
+## Introduction
 
 As one of the leaders in cancer mortality, breast cancer ranks fifth worldwide in causes for death in females [18]. In the U.S. alone, approximately 287,850 new cases of invasive breast cancer and 51,400 cases of DCIS (ductal carcinoma in situ) are diagnosed, and 43,250 died from breast cancer [1]. Moreover, it does limit itself to the female gender; males also have this sort of cancer, though the cases reported every year are nowhere near that of women cases and deaths [2]. This project aims to support the early screening and diagnosis of breast cancer through mammograms. The early detection of breast cancer contributes significantly to reducing the death rate. For this purpose, many screening methods are used, like ultrasound, screen-film mammography, magnetic resource imaging, and digital mammography [3]. Mammography is an X-ray technique that was developed specifically for breast lesion examination. Diagnosis, evaluation, and determination of the results are based on the different absorption of X-rays between different types of breast tissue [4]. A few of the injuries (small lesions) in mammograms may go undetected or be analyzed erroneously due to the quality of mammograms, the inability (experience) of the radiologists, or the limitation within the human visual system.
 
@@ -17,7 +17,7 @@ The tremendous progress in artificial intelligence, especially computer vision, 
 
 
 
-Models used for classification:
+## Models used for classification:
 
 1. 7-layer AlexNet using PCA-SVM, and SVM classifiers.
 <img width="848" alt="complete_full" src="https://github.com/CamLunn/Breast-Cancer-Detection/assets/64609764/965c67a7-e95c-49e3-8f76-8fca4d271789">
