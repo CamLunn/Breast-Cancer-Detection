@@ -38,4 +38,6 @@ The tremendous progress in artificial intelligence, especially computer vision, 
 ## Reproduce results
 To reproduce our results, you'll need to first download the data from https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset and unzip it in the Dataset directory
 
+Then run the training notebooks located in the code folder.
+
 
