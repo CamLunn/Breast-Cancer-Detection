@@ -19,6 +19,11 @@ The tremendous progress in artificial intelligence, especially computer vision, 
 
 Models Used:
 
+<img width="848" alt="complete_full" src="https://github.com/CamLunn/Breast-Cancer-Detection/assets/64609764/965c67a7-e95c-49e3-8f76-8fca4d271789">
+
+<img width="853" alt="complete_truncated" src="https://github.com/CamLunn/Breast-Cancer-Detection/assets/64609764/496f4ca6-bb50-4f51-948a-b01af115e690">
+
+
 ## Reproduce results
 To reproduce our results, you'll need to first download the data from https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset and unzip it in the Dataset directory
 
