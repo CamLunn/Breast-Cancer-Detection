@@ -17,12 +17,18 @@ The tremendous progress in artificial intelligence, especially computer vision, 
 
 
 
-## Models used for classification:
+## Model Architectures used for classification:
 
-1. 7-layer AlexNet using PCA-SVM, and SVM classifiers.
+1. Custom AlexNet
+<img width="346" alt="Custom_AlexNet" src="https://github.com/CamLunn/Breast-Cancer-Detection/assets/64609764/a5ef334c-900b-4e3b-b51c-919c5fe843db">
+
+2. Fine-tuned AlexNet
+<img width="544" alt="Fine-tuned_AlexNet" src="https://github.com/CamLunn/Breast-Cancer-Detection/assets/64609764/d4d7c264-74ce-4b6b-8944-5d945192558f">
+
+3. 7-layer AlexNet using PCA-SVM, and SVM classifiers.
 <img width="848" alt="complete_full" src="https://github.com/CamLunn/Breast-Cancer-Detection/assets/64609764/965c67a7-e95c-49e3-8f76-8fca4d271789">
 
-2. 6-layer AlexNet using PCA-SVM, and SVM classifiers.
+4. 6-layer AlexNet using PCA-SVM, and SVM classifiers.
 <img width="853" alt="complete_truncated" src="https://github.com/CamLunn/Breast-Cancer-Detection/assets/64609764/496f4ca6-bb50-4f51-948a-b01af115e690">
 
 
