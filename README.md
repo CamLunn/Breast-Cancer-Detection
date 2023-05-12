@@ -2,8 +2,11 @@
 Machine Learning - Group 9 Final Project
 
 Contents:
-- **Classification**: folder which contains all files for the classificatoin using CNN, AlexNet, PCA-SVM hybrid, and SVM. 
-- **Segmentation**: 
+- **Code**: folder containing a Classification subfolder and a MaskRCNN subfolder. 
+  -  The Classification folder the jupyter notebook file used for the classificatoin using CNN, AlexNet, PCA-SVM hybrid, and SVM.
+  -  The MaskRCNN folder contains all code required to reproduce the segmentation results.
+- **Dataset/csv**: folder containing the annotations.csv file used for reading the data in. *Note: see Reproduce Results section at bottom to retrieve data.*
+- **Resources**: folder containing the writeup and powerpoint presentation used for 
 
 
 
